@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ticmers@gmail.com)
 
 &nbsp;
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/tic8/tic8/master/code-header.jpg" />
+<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/tic8/tic8/master/code-header.jpg" />
 
 **Talking about Personal Stuffs:**
 
