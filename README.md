@@ -1,5 +1,5 @@
 
-## Hi, I'm Liuaya, a Developer 🚀 from China.
+## Hi, I'm Liuyaya, a Developer 🚀 from China.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tic8)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yaya_oks/)
