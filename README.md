@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yaya_oks/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ticmers@gmail.com)
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Beijing and as a PHPer.
 - 🌱 I’m currently learning Go/k8s.
