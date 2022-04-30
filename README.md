@@ -11,7 +11,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on Beijing and as a PHPer.
+- 🔭 I’m currently working on Beijing and as a Gopher.
 - 🌱 I’m currently learning Go/k8s.
 - 👯 I’m looking to collaborate on Web Development Projects. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
