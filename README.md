@@ -1,9 +1,6 @@
 
-## Hi, I'm Liuyaya, a Developer 🚀 from China.
+## Self-introduction.
 
-[![Weibo](https://img.shields.io/badge/Weibo-E6162D?style=flat&labelColor=E6162D&logo=Sina-Weibo&logoColor=white)](https://weibo.com/ticm)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/ticm55)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yaya_oks/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ticmers@gmail.com)
 
 &nbsp;
